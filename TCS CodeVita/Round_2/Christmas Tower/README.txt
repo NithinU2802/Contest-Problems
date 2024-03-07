@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Question - Christmas Tower
 	Daiwik received an exciting Christmas present from his Secret Santa. The present consists of multiple
 repeated blocks, each varying in size. There are five unique blocks, all with identical width but varying
@@ -80,4 +79,3 @@ Impossible
 Explanation
 Constructing a tower of height 19 using the provided combination of blocks is not feasible. Hence, print
 "Impossible".
->>>>>>> c60bbaade9b4690f8f5f59bdc4f6a44841c4ec49
