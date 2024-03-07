@@ -1,9 +1,0 @@
-Raja running the busiest cafe in the city, it is also the most visited cafe by VIPs
-
-VIPy buye costly Beverages. It gives Raj's Cafe Rough profit Raj asted his workers to prefer serving VIP's first, because VIPs dorit ke se wad much time Whenever a person orders something, Raj gives priority values to the orders and adds it to the queue. The greater the value more important the onder
-
-The workers start to the orders with high priority in queue ensuring that the VIP's get theirs orders quickly However those orders having low priority have to wait for a long time in queue upsetting those people Thin reduces the local number of peacle vailing the cale and reducing the profit But, making first come first serve basis reduces the VIP's visiting the cafe. This siso reduces the profa
-
-flag came up with new ides to keep the righ He introduced a new concept called dynamic prority The panority p of onders changes while in de queue Raj will maintain of orders with assigned priority adding nes orders at and The order with high pravity in the queue will be served first Wihen an got served due to its high priority, the phentity of orders in the queue before the will be increased by one if we orders having same priority then the order which was en-queued first will be sened fest. The strikes a balance between reducing the waiting time of VIPs and also serving we peuple without much delay
-
-One day dondered something As usual h hia thend vaned the cate and ordered: of some priority and gor added in the queum After some time ha lost his patience and asked when wil hie order be served After that, Raj stiroped adding new orthers to the Queue and started calculating atter how many orders hes trent will get served considering only orders canently the queue Given the Queue, cart you find after how many crowns will Raje filend get served

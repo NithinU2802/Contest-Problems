@@ -89,7 +89,7 @@ class Main {
             for (int j = 0; j < n; j++) {
                 if (a[i][j] == 0) {
                     a[i][j] = 1;
-                    len = search(0, 0, m, n, ways, a);
+                    int len = search(0, 0, m, n, ways);
                     res = max(res, len);
                     a[i][j] = 0;
                 }
